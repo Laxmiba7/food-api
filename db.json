@@ -1,0 +1,112 @@
+
+  [
+    {
+      "id": 1,
+      "name": "Paneer pakoda",
+      "description": "Paneer pakoda is made by batter frying Indian cottage cheese aka paneer. ",
+      "icon":"images/logo-1.png",
+      "category": "snacks",
+      "price": 200,
+      "stock":12
+    },
+    {
+      "id": 2,
+      "name": "Plain dosa",
+      "description": " Plain Dosa is a quick meal recipe made with a fermented batter of rice..... ",
+      "url": "https://www.google.com/search?q=plain+dosa+in+png+&tbm=isch&ved=2ahUKEwjN16TWrvD2AhUeQGwGHWnUBvwQ2-cCegQIABAA&oq=plain+dosa+in+png+&gs_lcp=CgNpbWcQAzoFCAAQgARQAFjNC2DEEWgAcAB4AIABkAaIAaYckgEJMy0zLjAuMi4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=ZqBFYs2MM56AseMP6aib4A8#imgrc=iAJK4sSvQJZH2M&imgdii=7gmugZ5ae-mkOM",
+      "category": "breakfast",
+      "price": 100,
+      "stock":20
+    },
+    {
+      "id": 3,
+      "name": "Gwaramari",
+      "description": " Gwaramari is a Newa cuisine which literally means round bread- “Gwara” meaning round and “mari” meaning traditional bread.[1] The food is popular in Kathmandu area. It is eaten in breakfast usually served with a milk tea.",
+      "url": "https://www.google.com/search?q=images+of+gwaramari+in+png+format&tbm=isch&ved=2ahUKEwjg46XOsvD2AhVWD7cAHSgeBNgQ2-cCegQIABAA&oq=images+of+gwaramari+in+png+format&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1DkBFi0HWDjH2gAcAB4AIABgQKIAesOkgEGMC4xNC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=h6RFYqCEMtae3LUPqLyQwA0&bih=649&biw=1366#imgrc=oopU-XpOrcog9M",
+      "category": "breakfast",
+      "price": 100,
+      "stock":200
+    },
+    {
+      "id": 4,
+      "name": "Egg Roll",
+      "description": " An egg roll is a cylindrical, savory roll with shredded cabbage, chopped pork, and other fillings inside a thickly-wrapped wheat flour skin, which is fried in hot oil..",
+      "url": "https://www.google.com/search?q=egg+roll++images+in+png+format&tbm=isch&ved=2ahUKEwjm8dWbs_D2AhVmjtgFHUjJB7YQ2-cCegQIABAA&oq=egg+roll++images+in+png+format&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoGCAAQCBAeOgUIABCABDoGCAAQBRAeOgQIABAeUMoFWONEYKZJaANwAHgAgAG3AYgBlyCSAQQwLjM0mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=KqVFYua0Beac4t4PyJKfsAs&bih=649&biw=1366#imgrc=0VXAk4c1d8fgNM",
+      "category": "breakfast",
+      "price": 60,
+      "stock":100
+    },
+    {
+      "id": 5,
+      "name": "Aloo paratha",
+      "description": "Aloo parathas consist of unleavened dough rolled with a mixture of mashed potato and spices, which is cooked on a hot tawa with butter or ghee",
+      "url": "https://www.google.com/search?q=aloo+paratha+images+in+png+format&sxsrf=APq-WBu0GpTpkgJDc_H4yKkCDDMlovB8Vw:1648731648256&tbm=isch&source=iu&ictx=1&vet=1&fir=KDMAcZW5Rhr64M%252CfQ0GOCWHKcB2cM%252C_%253ByNDvIlwRpEPeoM%252Ckl_0dQyzhhLtiM%252C_%253B9nSPB0L4B5g9EM%252CkYHtsPvqeir88M%252C_%253BuPN9dF91dWvumM%252C0PVdGdTPkU7JbM%252C_%253BV3aC0RUmSvaLdM%252CPkPw6bmw1Mui0M%252C_%253B46yFYPXWgxcRDM%252Ckl_0dQyzhhLtiM%252C_%253BAV_K_WhbegrY8M%252Cl-fNKpOhQqCKzM%252C_%253BTTdCqb__7WlcCM%252CeJ-asXnvWL7CfM%252C_%253BZik9DvPx-ZlQTM%252Cl-fNKpOhQqCKzM%252C_%253BGtNI2vjl4DJL3M%252C0PVdGdTPkU7JbM%252C_%253Bl3Rg-gdMJ9LWEM%252Cc7NOqKuEra06MM%252C_%253B7Hsx4yKjC2_1VM%252CbNaOzHlPKEiyHM%252C_&usg=AI4_-kTdIHO6dlUgNCt17EgYAvZWjK9s0Q&sa=X&ved=2ahUKEwiTnOWBtPD2AhUMzzgGHR5-D4gQ9QF6BAgCEAE&biw=1366&bih=649&dpr=1#imgrc=KDMAcZW5Rhr64M&imgdii=i9AA89MdnMDF_M",
+      "category": "breakfast",
+      "price": 50,
+      "stock":60
+    },
+    {
+      "id": 6,
+      "name": "Chicken friedrice",
+      "description": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat.",
+      "url": "https://www.google.com/search?q=chicken+fried+rice+images+in+png+format&sxsrf=APq-WBtLckzaNYzFrOyX9Jh7SH2CYlNNrQ:1648732678184&tbm=isch&source=iu&ictx=1&vet=1&fir=w-7jmoECuegZnM%252CTvMQi5IKNK353M%252C_%253BEzusiWufGefMyM%252C3gLf_FgXGtJCOM%252C_%253ByuEOT3FJLWeZgM%252CaFrMk8WpZh4GfM%252C_%253B1N1x4yQXM7mzkM%252C5CXBt-sEfUay0M%252C_%253BlVaxCCP01hTQvM%252CVJl9hh5Ho-2VtM%252C_%253B-VR22n6nihZ6PM%252CPZoW_dRlAMX-xM%252C_%253BMx0R3aFsN9u1dM%252C5CXBt-sEfUay0M%252C_%253BmflXceDsHb0y2M%252Cx9w3k5QxJeBAnM%252C_%253B9iqvMLFuJTfMQM%252CjR-TVXqDwZekXM%252C_%253B4aWKf3rQmn-KdM%252CXDgSoyX4sSrbSM%252C_%253BsWb_IyG-5C-K1M%252C23jcCfK81cghBM%252C_%253B_062Sx8I5XSyeM%252Cvb4AgumhST4coM%252C_%253BxXlGTm-pmSx0sM%252C7Qs1Bd7mwIHHaM%252C_&usg=AI4_-kSdfkgzk1S87mzC9dmgB_oUoSwBIg&sa=X&ved=2ahUKEwiY9fLst_D2AhUF3jgGHai6Bs4Q9QF6BAgPEAE&biw=1366&bih=649&dpr=1#imgrc=yuEOT3FJLWeZgM",
+      "category": "lunch",
+      "price": 150,
+      "stock":40
+    },
+    {
+      "id": 7,
+      "name": "Dhido",
+      "description": "Dhindo (Nepali: ढिँडो [ɖʱĩɽo] ( listen)) is a meal prepared in Nepal. It is prepared by gradually adding flour to boiling water while stirring.",
+      "url": "https://www.google.com/search?q=dhido+images&sxsrf=APq-WBuVPFNN6xhBE-6rDQHUKbfInE_nAA:1648732853774&tbm=isch&source=iu&ictx=1&vet=1&fir=Y8EvmJEec6iv7M%252Cm06wOApCWxp7LM%252C_%253BEuyI3CwpJZWSjM%252CmsDO7xf_3aCfcM%252C_%253B2B9nz33cn6FcrM%252CZGw_3U7alISA7M%252C_%253B24RGfxxC0P1QRM%252CEdDwkbwIqTr1cM%252C_%253BbZY7ola8lvWXfM%252CDWmKJFZcLuf-9M%252C_%253BmznbQF7J7hvxqM%252CADpouXGgYKh4iM%252C_%253Bt61Br2-XU-3LeM%252CgZunRv6UddCsmM%252C_%253BOsVQ0wSVi0TkxM%252CT2sqtU7e-jTQNM%252C_%253BgA8KwacImHm0vM%252Chx0lgvGOrCv-OM%252C_%253BpcITf1dB0Qgx9M%252CWo3CxA3hzKlYAM%252C_&usg=AI4_-kSfZX0tsQsW6JA-RqtwH_V2bGENiQ&sa=X&ved=2ahUKEwjPqtDAuPD2AhUuxzgGHSHICMcQ9QF6BAgFEAE#imgrc=gA8KwacImHm0vM",
+      "category": "lunch",
+      "price": 250,
+      "stock":30
+    },
+    {
+      "id": 8,
+      "name": "Dhaal bhat",
+      "description": "Dal bhat is a traditional meal of Nepal. It consists of steamed rice and a cooked lentil or other pulses stew called dal. It is a staple food in these countries",
+      "url": "https://www.google.com/search?q=dal+bhat+images+in+png+format&hl=en&sxsrf=APq-WBuOTqyL0U-4PaelR_ic3cDQzDyiDA:1648733048049&tbm=isch&source=iu&ictx=1&vet=1&fir=CU4B8RimFl0HRM%252Cxoo1Mi-wMpPvmM%252C_%253BJMIzLSm3YU5eFM%252Cxoo1Mi-wMpPvmM%252C_%253Bj10vSr3rtJ6oYM%252C951IzbLMwgLOnM%252C_%253BN3VytFiIdKZo7M%252C4XfmJG93XJ81uM%252C_%253BnRPQamjcyzLvlM%252CblwVkASAJ_5ZsM%252C_%253BwWc6ZiLraKawTM%252Cgcpp9B3kTbK5aM%252C_&usg=AI4_-kSW3oVD8barwkwREXDIrE7Xpf3SrA&sa=X&ved=2ahUKEwj06qGdufD2AhXWyzgGHT_fCfgQ9QF6BAgHEAE&biw=1366&bih=649&dpr=1#imgrc=Ms-wqH6PprxbVM",
+      "category": "lunch",
+      "price": 350,
+      "stock":150
+    },
+    {
+      "id": 9,
+      "name": "Thakali Khana",
+      "description": "Thakali cuisine uses locally grown buckwheat, barley, millet and dal, as well as rice, maize and dal imported from lower regions to the south.",
+      "url": "https://www.google.com/search?q=thakali+khana+in+png+format&tbm=isch&ved=2ahUKEwiX6JbxufD2AhWD_jgGHYyrC70Q2-cCegQIABAA&oq=thakali+khana+in+png+format&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoFCAAQgAQ6BAgAEEM6BAgAEBhQkARY2yhg4SxoA3AAeACAAfUCiAGoEpIBCDEuMTUuMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=KKxFYpe0AYP94-EPjNeu6As&bih=649&biw=1366&hl=en#imgrc=FwykO4IlT9x_zM",
+      "category": "lunch",
+      "price": 450,
+      "stock":90
+    },
+    {
+      "id": 10,
+      "name": "Chicken Momo",
+      "description": "hicken Momo is a dumpling made of all-purpose flour and filled with  meat. Inspired by Tibetan dumplings, the dish is a very popular Nepali street food.",
+      "url":"https://www.google.com/search?q=chicken+momo+images+in+png+format&hl=en&sxsrf=APq-WBvi8zK_wntAr3EoOrmhqdz9oCvF7g:1648734070992&tbm=isch&source=iu&ictx=1&vet=1&fir=snV2yQJLc6u0XM%252CXek2-avmoL9hSM%252C_%253BmeB8aV2vU9rq_M%252Cn9uMVqq44_pbzM%252C_%253BKjUKnv0-jdFRRM%252C8EP14pyGofg53M%252C_%253Bg1450OazTq0TkM%252CD17vUi8d82s9eM%252C_%253B0uUKGL2UCattwM%252CoYLU-p491wo9TM%252C_%253BZZZPxbUN8mRsOM%252Cxw40dSkMfyikXM%252C_%253B9grkj24dgtb_TM%252CI80qCTCAUdhpnM%252C_%253BZrUneFHuEFIBcM%252Cze3MO2m_yhCjeM%252C_%253B8znypFvXAW9aJM%252CeakVk7cI2nsASM%252C_%253BB8-y25vfImgNoM%252CC7Ko8kOLOzPa-M%252C_%253BhfpM4S416dgP9M%252CWLYsOyFWGjNO6M%252C_%253BmujHNk_Gazx4JM%252CeakVk7cI2nsASM%252C_&usg=AI4_-kRZ1UBquFLCqh-DM4jsu_LKfBBaxQ&sa=X&ved=2ahUKEwjyloWFvfD2AhUuxzgGHSHICMcQ9QF6BAgEEAE&biw=1366&bih=649&dpr=1#imgrc=snV2yQJLc6u0XM",
+      "category": "snacks",
+      "price": 200,
+      "stock":200
+    },
+    {
+      "id": 11,
+      "name": "Khashi ko Sekuwa",
+      "description": "Sekuwa is a Nepalese specialty dish consisting of grilled and skewered  he-goat meat. Before grilling, the meat is combined with fresh herbs and spices. It is one of the most popular street food items in the country. ",
+      "url": "https://www.google.com/search?q=Khashi+ko+Sekuwa+images+in+png+format&sxsrf=APq-WBs69p08irYJKPmwwvhd68ZVclgeKA:1648733836448&tbm=isch&source=iu&ictx=1&vet=1&fir=6knEgm_i9bu1kM%252CUb2ruOZ4jcWQuM%252C_%253BSeVnTfgu8NUnUM%252CrJnKLPgRw3hc3M%252C_%253BbGqPiukIhYKOaM%252CHkpNScFdU37AIM%252C_%253BkWOkKNqxUT6_xM%252CJaIUIhACRudmZM%252C_%253BTocErMoI6KFpgM%252CmitJo1rjXJfU_M%252C_%253BWGWR1BzMMbflyM%252CHkpNScFdU37AIM%252C_%253BMYdD8IKaZS6UwM%252CHkpNScFdU37AIM%252C_%253BFSNbz4S8pUtuGM%252CNT9ZviYftwz8kM%252C_%253BlA3eMxLr7Zy0SM%252CmitJo1rjXJfU_M%252C_%253BaW4Up6AL39oDGM%252CmitJo1rjXJfU_M%252C_&usg=AI4_-kQHyYYi44SFsa9jv_ScmFVT5UePvg&sa=X&ved=2ahUKEwjwgpqVvPD2AhWP4jgGHc9lAKQQ9QF6BAgDEAE#imgrc=6knEgm_i9bu1kM",
+      "category": "snacks",
+      "price": 1150,
+      "stock":40
+    },
+    {
+      "id": 12,
+      "name": "Sel Roti",
+      "description": "A fusion of doughnut and bagel, Sel Roti is one of the most sought after snack in Nepal during festivals like Tihar and Dashain. It is a circular rice flour bread which is deeply fried to make it crunchy on the outside and soft on the inside.  ",
+      "url": "https://www.google.com/search?q=Khashi+ko+Sekuwa+images+in+png+format&sxsrf=APq-WBs69p08irYJKPmwwvhd68ZVclgeKA:1648733836448&tbm=isch&source=iu&ictx=1&vet=1&fir=6knEgm_i9bu1kM%252CUb2ruOZ4jcWQuM%252C_%253BSeVnTfgu8NUnUM%252CrJnKLPgRw3hc3M%252C_%253BbGqPiukIhYKOaM%252CHkpNScFdU37AIM%252C_%253BkWOkKNqxUT6_xM%252CJaIUIhACRudmZM%252C_%253BTocErMoI6KFpgM%252CmitJo1rjXJfU_M%252C_%253BWGWR1BzMMbflyM%252CHkpNScFdU37AIM%252C_%253BMYdD8IKaZS6UwM%252CHkpNScFdU37AIM%252C_%253BFSNbz4S8pUtuGM%252CNT9ZviYftwz8kM%252C_%253BlA3eMxLr7Zy0SM%252CmitJo1rjXJfU_M%252C_%253BaW4Up6AL39oDGM%252CmitJo1rjXJfU_M%252C_&usg=AI4_-kQHyYYi44SFsa9jv_ScmFVT5UePvg&sa=X&ved=2ahUKEwjwgpqVvPD2AhWP4jgGHc9lAKQQ9QF6BAgDEAE#imgrc=6knEgm_i9bu1kM",
+      "category": "snacks",
+      "price": 50,
+      "stock":400
+    }
+  ]
+
